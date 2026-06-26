@@ -1,0 +1,47 @@
+|<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"
+    <title document </title>
+    <style>
+        body{
+            margin:0;
+        }
+        Table{
+        width:100%;
+        height:100%;
+        background-color: rgb(204, 12, 124);
+        }
+    </style>
+    <body>
+        <!--this is my resume website -->
+        <!--header-->
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#Education">Education</a></li>
+                    <li><a href="#Project">project</a></li>
+                    <li><a href="#Contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <table>
+        <tr>
+            <th>
+        <h1> I am Pena Yonjan</h1>
+        <h2>I am Fronteen Designer</h2>
+        <p>i am  doing 6 class. I am intrested in making fronteen designing .</p> 
+        <button>Contact me</button>
+        <button>Explore my Project</button>
+       
+    </th>
+            <th> <img src="pena.jpeg"></th>
+        </tr>
+        </table>
+    </body>
+</head>
+<body>
+</body>
+</html>
